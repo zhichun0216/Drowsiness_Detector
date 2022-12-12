@@ -1,15 +1,9 @@
 from cmath import nan
-from io import StringIO
-import os
-from turtle import color
 import streamlit as st
-import yfinance as yf
-import pandas as pd
 from PIL import Image
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 import cv2
-from PIL import Image
 import numpy as np
 import time
 
